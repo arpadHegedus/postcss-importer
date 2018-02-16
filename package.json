@@ -36,13 +36,13 @@
     },
     "jest": {},
     "dependencies": {
+        "path": "^0.12.7",
         "postcss": "^6.0.18"
     },
     "devDependencies": {
         "babel-eslint": "^8.2.1",
         "eslint": "^4.17.0",
         "eslint-config-postcss": "^2.0.2",
-        "jest": "^22.3.0",
-        "path": "^0.12.7"
+        "jest": "^22.3.0"
     }
 }
