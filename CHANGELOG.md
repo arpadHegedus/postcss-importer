@@ -1,4 +1,4 @@
 # Changelog
 
-## 0.0.1 - 1977-01-01
+## 1.0.0 - 2018-02-16
 * Initial release

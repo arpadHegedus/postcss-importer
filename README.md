@@ -15,7 +15,7 @@ npm install postcss-importer
 * Multiple levels of importing files
 * Import external files (from CDNs, etc.)
 
-## Example
+## Examples
 
 ### Simple example
 
@@ -23,7 +23,8 @@ npm install postcss-importer
 /* main.css */
 @import 'other.css';
 div { color: black }
-
+```
+```css
 /* other.css */
 body { color: red }
 ```
