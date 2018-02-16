@@ -8,7 +8,7 @@ A [PostCSS](https://github.com/postcss/postcss) plugin to load and inline import
 
 ## Installation
 
-```js
+```
 npm install postcss-importer
 ```
 
