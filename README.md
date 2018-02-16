@@ -16,7 +16,7 @@ npm install postcss-importer
 * Import local files
 * Declare an import without file extension to use the same extension as the source file (```.css``` or ```.scss```)
 * Import multiple and backward levels
-* Import files from the internet (from CDNs, etc.)
+* Import files from external sources (from CDNs, etc.)
 
 ## Examples
 
