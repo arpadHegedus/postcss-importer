@@ -1,0 +1,48 @@
+{
+    "name": "postcss-importer",
+    "version": "1.0.0",
+    "description": "A PostCSS plugin to load and inline imports",
+    "main": "index.js",
+    "license": "MIT",
+    "repository": "https://github.com/arpadHegedus/postcss-importer.git",
+    "homepage": "https://github.com/arpadHegedus/postcss-importer#readme",
+    "bugs": "https://github.com/arpadHegedus/postcss-importer/issues",
+    "keywords": [
+        "postcss",
+        "postcss-plugin",
+        "preprocessor",
+        "plugin",
+        "css",
+        "style"
+    ],
+    "author": "Arpad Hegedus <hegedus.arpad@gmail.com> (http://arpadhegedus.com)",
+    "contributors": [
+        "Arpad Hegedus <hegedus.arpad@gmail.com> (http://arpadhegedus.com)"
+    ],
+    "maintainers": [
+        "Arpad Hegedus <hegedus.arpad@gmail.com> (http://arpadhegedus.com)"
+    ],
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "eslintConfig": {
+        "extends": "eslint-config-postcss/es6",
+        "env": {
+            "jest": true
+        }
+    },
+    "jest": {},
+    "dependencies": {
+        "postcss": "^6.0.18"
+    },
+    "devDependencies": {
+        "babel-eslint": "^8.2.1",
+        "eslint": "^4.17.0",
+        "eslint-config-postcss": "^2.0.2",
+        "jest": "^22.3.0",
+        "path": "^0.12.7"
+    }
+}
