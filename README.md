@@ -14,9 +14,9 @@ npm install postcss-importer
 
 ## Features
 * Import local files
-* Declare import without extension to use the same extension as source file
-* Multiple levels of importing files
-* Import external files (from CDNs, etc.)
+* Declare an import without file extension to use the same extension as the source file (```.css``` or ```.scss```)
+* Import multiple and backward levels
+* Import files from the internet (from CDNs, etc.)
 
 ## Examples
 
