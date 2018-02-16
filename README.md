@@ -1,4 +1,7 @@
 # PostCSS Node Sass [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS Logo" width="90" height="90" align="right">](https://github.com/postcss/postcss)
+[![NPM Version](https://img.shields.io/npm/v/postcss-importer.svg)](https://www.npmjs.com/package/postcss-importer)
+[![Build Status](https://travis-ci.org/arpadHegedus/postcss-importer.svg?branch=master)](https://travis-ci.org/arpadHegedus/postcss-importer)
+[![BGitter Chat](https://img.shields.io/badge/chat-gitter-blue.svg)](https://gitter.im/postcss/postcss)
 
 A [PostCSS](https://github.com/postcss/postcss) plugin to load and inline imports
 
