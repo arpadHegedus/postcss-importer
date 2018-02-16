@@ -68,9 +68,7 @@ const importer = require('postcss-importer');
 gulp.task('css', () => {
     gulp.src('path/to/dev/css')
         .pipe(postcss([
-            /* postcss plugins before parsing sass */
             importer()
-            /* postcss plugins after parsing sass */
         ]))
         .pipe(gulp.dest('path/to/build/css'));
 });
