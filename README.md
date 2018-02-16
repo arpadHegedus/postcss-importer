@@ -20,7 +20,7 @@ npm install postcss-importer
 
 ## Examples
 
-### Simple example
+### Simple
 
 ```css
 /* main.css */
@@ -37,7 +37,7 @@ body { color: red }
 div { color: black }
 ```
 
-### External example
+### External source
 
 ```css
 /* input */
