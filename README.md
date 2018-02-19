@@ -72,8 +72,6 @@ gulp.task('css', () => {
         ]))
         .pipe(gulp.dest('path/to/build/css'));
 });
-
-/* rest of gulp file */
 ```
 
 ## Tests

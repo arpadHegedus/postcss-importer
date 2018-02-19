@@ -1,6 +1,6 @@
 {
     "name": "postcss-importer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A PostCSS plugin to load and inline imports",
     "main": "index.js",
     "license": "MIT",
